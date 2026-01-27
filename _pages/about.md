@@ -14,6 +14,11 @@ Publications
 
 <div style="font-size: 14px;" markdown="1">
 
+**[MLSys '26] FlexTrain: Scalable Hybrid‑Parallel Training with Elastic Resource Utilization and Consistent Accuracy** <br>
+**Weilin Cai***, Diandian Gu*, Baoquan Zhong*, Jun Wang*, Zhuolin Zheng*, Gaohong Liu, Kaihua Jiang, Shuguang Wang, Wencong Xiao,
+Jiayi Huang (\*: Equal contribution) <br>
+Ninth Annual Conference on Machine Learning and Systems, May 2026.
+
 **[ICLR '26] Capacity‑Aware Inference: Mitigating the Straggler Effect in Mixture of Experts** <br>
 Shwai He, **Weilin Cai**, Jiayi Huang, Ang Li <br>
 The Fourteenth International Conference on Learning Representations, April 2026.
