@@ -12,7 +12,7 @@ This is ---
 Publications
 ======
 
-<div style="font-size: 14px;">
+<div style="font-size: 14px;" markdown="1">
 
 
 **[MICRO '25] Optimizing All-to-All Collective Communication with Fault Tolerance on Torus Networks**\
