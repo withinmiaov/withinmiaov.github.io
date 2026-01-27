@@ -12,6 +12,8 @@ This is ---
 Publications
 ======
 
+<div style="font-size: 14px;">
+  
 **[MICRO '25] Optimizing All-to-All Collective Communication with Fault Tolerance on Torus Networks**\
 Le Qin, Junwei Cui, **Weilin Cai**, Meng Niu, Yan Yang, Jiayi Huang\
 IEEE/ACM International Symposium on Microarchitecture, October 2025.
@@ -30,7 +32,8 @@ ACM/IEEE International Symposium on Computer Architecture, June 2025.\
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems, March—April 2025.
 
 **[TKDE '25] A Survey on Mixture of Experts in Large Language Models**\
-**Weilin Cai***, Juyong Jiang*, Fan Wang*, Jing Tang, Sunghun Kim, Jiayi Huang (*: Equal contribution)\
+**Weilin Cai***, Juyong Jiang*, Fan Wang*, Jing Tang, Sunghun Kim, Jiayi Huang (\*: Equal contribution)\
 IEEE Tranactions on Knowledge and Data Engineering, 37(7):3896—3915, March 2025.
 
+</div>
 
