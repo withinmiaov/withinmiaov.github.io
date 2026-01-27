@@ -15,7 +15,7 @@ Publications
 <div style="font-size: 14px;" markdown="1">
 
 **[MLSys '26] FlexTrain: Scalable Hybrid‑Parallel Training with Elastic Resource Utilization and Consistent Accuracy** <br>
-**Weilin Cai***, Diandian Gu*, Baoquan Zhong*, Jun Wang*, Zhuolin Zheng*, Gaohong Liu, Kaihua Jiang, Shuguang Wang, Wencong Xiao,
+**Weilin Cai**\*, Diandian Gu\*, Baoquan Zhong\*, Jun Wang\*, Zhuolin Zheng\*, Gaohong Liu, Kaihua Jiang, Shuguang Wang, Wencong Xiao,
 Jiayi Huang (\*: Equal contribution) <br>
 Ninth Annual Conference on Machine Learning and Systems, May 2026.
 
@@ -42,7 +42,7 @@ ACM/IEEE International Symposium on Computer Architecture, June 2025. <br>
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems, March—April 2025.
 
 **[TKDE '25] A Survey on Mixture of Experts in Large Language Models** <br>
-**Weilin Cai***, Juyong Jiang*, Fan Wang*, Jing Tang, Sunghun Kim, Jiayi Huang (\*: Equal contribution) <br>
+**Weilin Cai**\*, Juyong Jiang\*, Fan Wang\*, Jing Tang, Sunghun Kim, Jiayi Huang (\*: Equal contribution) <br>
 IEEE Tranactions on Knowledge and Data Engineering, 37(7):3896—3915, March 2025.
 
 
