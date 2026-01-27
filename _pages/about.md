@@ -12,4 +12,4 @@ This is ---
 Publications
 ======
 
-<div id="publications"></div>
+
