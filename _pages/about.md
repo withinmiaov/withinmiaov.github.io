@@ -39,7 +39,7 @@ ACM/IEEE International Symposium on Computer Architecture, June 2025. <br>
 
 **[ASPLOS '25] MoC-System: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training** <br>
 **Weilin Cai**, Le Qin, Jiayi Huang <br>
-ACM International Conference on Architectural Support for Programming Languages and Operating Systems, March—April 2025.
+ACM International Conference on Architectural Support for Programming Languages and Operating Systems, April 2025.
 
 **[TKDE '25] A Survey on Mixture of Experts in Large Language Models** <br>
 **Weilin Cai**\*, Juyong Jiang\*, Fan Wang\*, Jing Tang, Sunghun Kim, Jiayi Huang (\*: Equal contribution) <br>
