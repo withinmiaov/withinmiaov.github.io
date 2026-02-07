@@ -61,8 +61,7 @@ ACM International Conference on Architectural Support for Programming Languages 
 **Weilin Cai**\*, Juyong Jiang\*, Fan Wang\*, Jing Tang, Sunghun Kim, Jiayi Huang (\*: Equal contribution) <br>
 IEEE Tranactions on Knowledge and Data Engineering, 37(7):3896—3915, March 2025.
 
-**[NPC '22] Flexible Supervision System: A Fast Fault‑Tolerance Strategy for Cloud Applications in Cloud‑Edge Collaborative Environ‑
-ments** <br>
+**[NPC '22] Flexible Supervision System: A Fast Fault‑Tolerance Strategy for Cloud Applications in Cloud‑Edge Collaborative Environments** <br>
 **Weilin Cai**, Heng Chen, Zhimin Zhuo, Ziheng Wang, Ninggang An <br>
 IFIP International Conference on Network and Parallel Computing, 2022.
 
@@ -82,8 +81,7 @@ Preprints
 arXiv preprint arXiv:2508.18376. 2025.
 
 **[ArXiv ’25] Accelerating Mixture‑of‑Experts Inference by Hiding Offloading Latency with Speculative Decoding** <br>
-Zhibin Wang, Zhonghui Zhang, Yuhang Zhou, Zibo Wang, Mo Zhou, Peng Jiang, **Weilin Cai**, Chengying Huan, Rong Gu, Sheng Zhong,
-Chen Tian <br>
+Zhibin Wang, Zhonghui Zhang, Yuhang Zhou, Zibo Wang, Mo Zhou, Peng Jiang, **Weilin Cai**, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian <br>
 arXiv preprint arXiv:2508.21706. 2025.
 
 </div>
