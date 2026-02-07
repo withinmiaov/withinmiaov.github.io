@@ -15,9 +15,11 @@ Awards
 
 <div style="font-size: 14px;" markdown="1">
 
-HKUST(GZ) FUNH Dean's Award for PhD Research Excellence 2025/26
+HKUST(GZ) FUNH Dean's Award for PhD Research Excellence 2025/26, **Merit Prize**
 
 The 5th China Parallel Application Challenge on Domestic CPU (CPC2021), **National Champion**
+
+The 9th "Intel Cup" Parallel Application Challenge (PAC2021), **Third Prize**
 
 </div>
 
@@ -59,6 +61,30 @@ ACM International Conference on Architectural Support for Programming Languages 
 **Weilin Cai**\*, Juyong Jiang\*, Fan Wang\*, Jing Tang, Sunghun Kim, Jiayi Huang (\*: Equal contribution) <br>
 IEEE Tranactions on Knowledge and Data Engineering, 37(7):3896—3915, March 2025.
 
+**[NPC '22] Flexible Supervision System: A Fast Fault‑Tolerance Strategy for Cloud Applications in Cloud‑Edge Collaborative Environ‑
+ments** <br>
+**Weilin Cai**, Heng Chen, Zhimin Zhuo, Ziheng Wang, Ninggang An <br>
+IFIP International Conference on Network and Parallel Computing, 2022.
+
+**[TJSC '22] Implementation and optimization of ChaCha20 stream cipher on sunway taihuLight supercomputer** <br>
+**Weilin Cai**, Heng Chen, Ziheng Wang, Xingjun Zhang <br>
+The Journal of Supercomputing pp. 4199–4216. Springer, 2022.
+
+</div>
+
+Preprints
+======
+
+<div style="font-size: 14px;" markdown="1">
+
+**[ArXiv '25] DualSparse‑MoE: Coordinating Tensor/Neuron‑Level Sparsity with Expert Partition and Reconstruction** <br>
+**Weilin Cai**, Le Qin, Shwai He, Junwei Cui, Ang Li, Jiayi Huang <br>
+arXiv preprint arXiv:2508.18376. 2025.
+
+**[ArXiv ’25] Accelerating Mixture‑of‑Experts Inference by Hiding Offloading Latency with Speculative Decoding** <br>
+Zhibin Wang, Zhonghui Zhang, Yuhang Zhou, Zibo Wang, Mo Zhou, Peng Jiang, **Weilin Cai**, Chengying Huan, Rong Gu, Sheng Zhong,
+Chen Tian <br>
+arXiv preprint arXiv:2508.21706. 2025.
 
 </div>
 
