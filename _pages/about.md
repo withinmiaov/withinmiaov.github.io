@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Microelectronics Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. Jiayi Huang and Prof. Xiaowen Chu.
+I am a third-year Ph.D. student in Microelectronics Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Jiayi Huang](https://jyhuang91.github.io/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
 My research interests lie in the fields of ML Systems, Efficient AI and HPC, with a special focus on the system-algorithm co-design of Mixture-of-Experts.
 
 Awards
@@ -15,11 +15,9 @@ Awards
 
 <div style="font-size: 14px;" markdown="1">
 
-HKUST(GZ) FUNH Dean's Award for PhD Research Excellence 2025/26, **Merit Prize**
-
-The 5th China Parallel Application Challenge on Domestic CPU (CPC2021), **National Champion**
-
-The 9th "Intel Cup" Parallel Application Challenge (PAC2021), **Third Prize**
+2025 - 🏆 HKUST(GZ) FUNH Dean's Award for PhD Research Excellence 2025/26, **Merit Prize** <br>
+2021 - 🥇 The 5th China Parallel Application Challenge on Domestic CPU (CPC2021), **National Champion** <br>
+2021 - 🥉 The 9th "Intel Cup" Parallel Application Challenge (PAC2021), **Third Prize**
 
 </div>
 
