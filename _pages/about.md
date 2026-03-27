@@ -16,7 +16,7 @@ Awards
 <div style="font-size: 14px;" markdown="1">
 
 2025 - 🏆 HKUST(GZ) FUNH Dean's Award for PhD Research Excellence 2025/26, **Merit Prize** <br>
-2021 - 🥇 The 5th China Parallel Application Challenge on Domestic CPU (CPC2021), **National Champion** <br>
+2021 - 🥇 The 5th "Sunway Cup" China Parallel Application Challenge on Domestic CPU (CPC2021), **National Champion** <br>
 2021 - 🥉 The 9th "Intel Cup" Parallel Application Challenge (PAC2021), **Third Prize**
 
 </div>
