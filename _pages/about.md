@@ -28,10 +28,18 @@ Publications
 
 <div style="font-size: 14px;" markdown="1">
 
+**[ICML '26] Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference** <br>
+**Weilin Cai**, Le Qin, Shwai He, Junwei Cui, Ang Li, Jiayi Huang <br>
+Forty-Third International Conference on Machine Learning, July 2026.
+
 **[MLSys '26] FlexTrain: Scalable Hybrid‑Parallel Training with Elastic Resource Utilization and Consistent Accuracy** <br>
 **Weilin Cai**\*, Diandian Gu\*, Baoquan Zhong\*, Jun Wang\*, Zhuolin Zheng\*, Gaohong Liu, Kaihua Jiang, Shuguang Wang, Wencong Xiao,
 Jiayi Huang (\*: Equal contribution) <br>
 Ninth Annual Conference on Machine Learning and Systems, May 2026.
+
+**[DATE '26] XTree on EquiMesh: Topology and Algorithm Co-Design for Collective Communication** <br>
+Junwei Cui, Le Qin, **Weilin Cai**, Jiayi Huang <br>
+Design, Automation & Test in Europe Conference, April 2026.
 
 **[ICLR '26] Capacity‑Aware Inference: Mitigating the Straggler Effect in Mixture of Experts** <br>
 Shwai He, **Weilin Cai**, Jiayi Huang, Ang Li <br>
@@ -74,9 +82,9 @@ Preprints
 
 <div style="font-size: 14px;" markdown="1">
 
-**[ArXiv '25] DualSparse‑MoE: Coordinating Tensor/Neuron‑Level Sparsity with Expert Partition and Reconstruction** <br>
-**Weilin Cai**, Le Qin, Shwai He, Junwei Cui, Ang Li, Jiayi Huang <br>
-arXiv preprint arXiv:2508.18376. 2025.
+**[ArXiv ’26] ReaLB: Real-Time Load Balancing for Multimodal MoE Inference** <br>
+Yingping Wang, Yi Wu, Xiangyu Wu, Junwei Cui, **Weilin Cai**, Zhijiang Guo, Jiayi Huang <br>
+arXiv preprint arXiv:2604.19503. 2026.
 
 **[ArXiv ’25] Accelerating Mixture‑of‑Experts Inference by Hiding Offloading Latency with Speculative Decoding** <br>
 Zhibin Wang, Zhonghui Zhang, Yuhang Zhou, Zibo Wang, Mo Zhou, Peng Jiang, **Weilin Cai**, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian <br>
