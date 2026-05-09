@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Microelectronics Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Jiayi Huang](https://jyhuang91.github.io/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
+I am a final-year Ph.D. student in Microelectronics Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Jiayi Huang](https://jyhuang91.github.io/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen).
 My research interests lie in the fields of ML Systems, Efficient AI and HPC, with a special focus on the system-algorithm co-design of Mixture-of-Experts.
 
 Awards
