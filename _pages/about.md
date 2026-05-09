@@ -32,6 +32,10 @@ Publications
 **Weilin Cai**, Le Qin, Shwai He, Junwei Cui, Ang Li, Jiayi Huang <br>
 Forty-Third International Conference on Machine Learning, July 2026.
 
+**[ISCA '26] Mapping and Communication Optimizations with Fault Tolerance for Wafer-Scale LLM Inference** <br>
+Junwei Cui, Le Qin, **Weilin Cai**, Jiayi Huang <br>
+ACM/IEEE International Symposium on Computer Architecture, June 2026. <br>
+
 **[MLSys '26] FlexTrain: Scalable Hybrid‑Parallel Training with Elastic Resource Utilization and Consistent Accuracy** <br>
 **Weilin Cai**\*, Diandian Gu\*, Baoquan Zhong\*, Jun Wang\*, Zhuolin Zheng\*, Gaohong Liu, Kaihua Jiang, Shuguang Wang, Wencong Xiao,
 Jiayi Huang (\*: Equal contribution) <br>
