@@ -28,6 +28,14 @@ Publications
 
 <div style="font-size: 14px;" markdown="1">
 
+**[HPCA '27] Resilient and Bandwidth-Efficient Collective Communication on Mesh Networks** <br>
+Junwei Cui, Le Qin, **Weilin Cai**, Yanhua Chen, Fengbin Tu, Jiayi Huang <br>
+IEEE International Symposium on High-Performance Computer Architecture, March 2027. <br>
+
+**[MICRO '26] Glaive: Cleaving Bandwidth and Latency Scheduling for Efficient Non-uniform All-to-All Collective Communication** <br>
+Le Qin, Junwei Cui, **Weilin Cai**, Chenyu Yuan, Jiayi Huang <br>
+IEEE/ACM International Symposium on Microarchitecture, November 2026. <br>
+
 **[ICML '26] Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference** <br>
 **Weilin Cai**, Le Qin, Shwai He, Junwei Cui, Ang Li, Jiayi Huang <br>
 Forty-Third International Conference on Machine Learning, July 2026.
